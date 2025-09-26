@@ -16,7 +16,7 @@ import time
 # --- Constants ---
 # You must change this to the actual path of your Panda URDF file
 # For example: '/path/to/your/ros2_ws/src/franka_ros2/franka_description/robots/panda_arm.urdf'
-URDF_PATH = "path/to/your/panda.urdf" 
+URDF_PATH = "franka_urdf/panda.urdf" 
 EE_LINK_NAME = "panda_hand"  # The name of the end-effector link in your URDF
 
 # Movement speeds
